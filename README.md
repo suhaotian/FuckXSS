@@ -8,7 +8,7 @@ A react component **fuck XSS** wrap with DOMPurity
 npm i dompurity --save
 ```
 
-```jsx
+```js
 import React from 'react'
 import ReactDOM from 'react-dom'
 
