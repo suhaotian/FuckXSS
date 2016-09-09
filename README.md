@@ -1,5 +1,5 @@
 # FuckXSS
-A react component wrap with DOMPurity 
+A react component **fuck XSS** wrap with DOMPurity 
 
 
 ## Usage
